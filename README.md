@@ -1,110 +1,18 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi , I'm Arabi</h1>
+<h1 align="center">Hi 👋, I'm Arifuzzaman Arabi</h1>
+<h3 align="center">A passionate CS student who wants to learn...</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arifzamann529-oss&label=Profile%20views&color=0e75b6&style=flat" alt="arifzamann529-oss" /> </p>
 
-
-
-<h2 align="center">About Me </h2>
-
-
-<h4 align="center">
- I'm student of Computer Science and Engineering (CSE) student at Patuakhali Science and Technology University (PSTU), Bangladesh.
-</br>
-
-Beginner-level programmer focused on learning coding fundamentals and problem solving.
-<h4></h4>
-
-- 📫 How to reach me **khondoker.almikat@gmail.com**
-
-
-
-<h2 align="center">Languages and Tools:</h2>
-
-### 👉 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-### 👉 Web Development
-<p>
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 👉 Tools 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logo=rocket&logoColor=00ffae"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifzamann529-oss&show_icons=true&locale=en&layout=compact" alt="arifzamann529-oss" /></p>
 
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifzamann529-oss&show_icons=true&locale=en" alt="arifzamann529-oss" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifzamann529-oss&" alt="arifzamann529-oss" /></p>
 
-
-<h2 align="center">Github Stats</h2>
-
-
- 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kh-almikat&theme=highcontrast&hide_border=false" width="400"/>
-
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=kh-almikat&theme=dark" width="400"/>
-
-
-</p>
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kh-almikat/kh-almikat/output-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kh-almikat&theme=dark)
-
-
-
-<h2 align="center">🤝 Connect With ME</h2>
-<p align="center">
-<a href="https://www.facebook.com/almikat.ahmed" target="_blank">
-  <img src="https://img.icons8.com/color/50/facebook-new.png" width="50"/>
-</a>
-
-<a href="https://www.linkedin.com/in/khondoker-almikat/" target="_blank">
-  <img src="https://img.icons8.com/color/50/linkedin.png" width="50"/>
-</a>
-
-<a href="https://github.com/kh-almikat" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="50"/>
-</a>
-
-<a href="https://codeforces.com/profile/almikat_ahmed" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="50"/>
-</a>
-
-<a href="https://www.instagram.com/almikat.ahmed" target="_blank">
-  <img src="https://img.icons8.com/color/50/instagram-new.png" width="50"/>
-</a>
-</p>
-
-
-
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=kh-almikat&label=Profile%20views&color=0e75b6&style=flat" alt="kh-almikat" /> </p>
-</h2>
-
-
-
-
-<p align="center">
-  <strong>Thanks for visiting!</strong><br>
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow line" width="100%">
-</div>
